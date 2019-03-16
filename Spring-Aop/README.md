@@ -1,4 +1,4 @@
-##Spring AOP 
+## Spring AOP 
 ## 概述
 >  AOP（Aspect Oriented Programming）,即面向切面编程，可以说是OOP（Object Oriented Programming，面向对象编程）的补充和完善。
    OOP引入封装、继承、多态等概念来建立一种对象层次结构（纵向的关系），但并不适合定义横向的关系，例如日志功能。日志代码往往横向地散布在所有对象层次中，而与它对应的对象的核心功能毫无关系对于其他类型的代码，
@@ -30,5 +30,5 @@
 
 
 ## 图解切面
- ![切面](images/AOP/切面.png)  
+ ![切面](https://github.com/Xiaokang919/SpringHome/blob/master/images/AOP/%E5%88%87%E9%9D%A2.png?raw=true)  
 
